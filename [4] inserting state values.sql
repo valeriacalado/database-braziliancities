@@ -1,6 +1,6 @@
 use braziliancities;
 
-insert into state (state_id, state_name, uf, region)
+insert into state (state_id, state_name, uf, region_id)
 values
 	(1, 'Acre', 'AC', 1),
 	(2, 'Alagoas', 'AL', 2),
