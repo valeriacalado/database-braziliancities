@@ -1,6 +1,6 @@
 use braziliancities;
 
-insert into region (region)
+insert into region (region_name)
 values
 	('Norte'),
     ('Nordeste'),

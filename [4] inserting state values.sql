@@ -1,0 +1,31 @@
+use braziliancities;
+
+insert into state (state_id, state_name, uf, region)
+values
+	(1, 'Acre', 'AC', 1),
+	(2, 'Alagoas', 'AL', 2),
+	(3, 'Amazonas', 'AM', 1),
+	(4, 'Amapá', 'AP', 1),
+	(5, 'Bahia', 'BA', 2),
+	(6, 'Ceará', 'CE', 2),
+	(7, 'Distrito Federal', 'DF', 3),
+	(8, 'Espírito Santo', 'ES', 4),
+	(9, 'Goiás', 'GO', 3),
+	(10, 'Maranhão', 'MA', 2),
+	(11, 'Minas Gerais', 'MG', 4),
+	(12, 'Mato Grosso do Sul', 'MS', 3),
+	(13, 'Mato Grosso', 'MT', 3),
+	(14, 'Pará', 'PA', 1),
+	(15, 'Paraíba', 'PB', 2),
+	(16, 'Pernambuco', 'PE', 2),
+	(17, 'Piauí­', 'PI', 2),
+	(18, 'Paraná', 'PR', 5),
+	(19, 'Rio de Janeiro', 'RJ', 4),
+	(20, 'Rio Grande do Norte', 'RN', 2),
+	(21, 'Rondônia', 'RO', 1),
+	(22, 'Roraima', 'RR', 1),
+	(23, 'Rio Grande do Sul', 'RS', 5),
+	(24, 'Santa Catarina', 'SC', 5),
+	(25, 'Sergipe', 'SE', 2),
+	(26, 'São Paulo', 'SP', 4),
+	(27, 'Tocantins', 'TO', 1)
