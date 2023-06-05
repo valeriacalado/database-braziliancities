@@ -45,6 +45,7 @@ __Step 5:__ Inserting cities values:
 
 Execute the contents of the file "inserting cities values.sql" to populate the "cities" table with the desired city values.
 
+---
 
 Once you have completed these steps, your Brazilian cities database should be successfully created and populated with the relevant information. 
 
