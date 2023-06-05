@@ -1,6 +1,6 @@
 # Brazilian Cities Database
 
-> This is a comprehensive database that includes the names of all Brazilian cities, along with their respective states and regions. This meticulously curated collection serves as a resource for anyone in need of information regarding Brazilian cities for research purposes. 
+> This is a database that includes the names of all Brazilian cities, along with their respective states and regions. This meticulously curated collection serves as a resource for anyone in need of information regarding Brazilian cities for research purposes. 
 
 
 Used:
